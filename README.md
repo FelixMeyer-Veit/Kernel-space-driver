@@ -1,5 +1,5 @@
 # Kernel-space-driver
-Project 4 in EMBE
+Project 4 in EMBE with Erik Leffler
 
 For this project we used a Raspberry Pi single board computer and components of choice.
 Wire up an input and an output, e.g. using a button and an LED.
