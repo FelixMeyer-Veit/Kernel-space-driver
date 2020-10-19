@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Erik Leffler, Felix Meyer-Veit
+# Author: Felix Meyer-Veit
 
 # Short Describtion of the script for the user
 echo "Turn the LED on by pressing the button."
