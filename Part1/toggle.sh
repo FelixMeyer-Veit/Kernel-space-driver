@@ -1,6 +1,6 @@
 #!/bin/bash
-# Author: Erik Leffler, Felix Meyer-Veit
-
+# Author: Felix Meyer-Veit
+# just a test
 # Short Describtion of the script for the user
 echo "LED is toggled."
 echo "Quit the shell script by pressing ctrl-c."
